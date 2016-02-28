@@ -1,0 +1,33 @@
+_repo: The-Consolidator-or-Memoirs-of-Sundry-Transactions-from-the-World-in-the-Moon_7089
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - John, Gabriel
+    - Moreton, Andrew
+    - Defo, Daniel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+    - http://www.gutenberg.org/browse/authors/j#a26500
+description: ''
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7089'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Interplanetary voyages -- Fiction'
+- !lcsh 'Moon -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Satire'
+- !lcsh 'Political fiction'
+title: The Consolidator; or, Memoirs of Sundry Transactions from the World in the
+  Moon
+url: http://www.gutenberg.org/ebooks/7089
