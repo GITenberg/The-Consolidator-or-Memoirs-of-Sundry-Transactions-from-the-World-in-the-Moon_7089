@@ -1,4 +1,8 @@
 _repo: The-Consolidator-or-Memoirs-of-Sundry-Transactions-from-the-World-in-the-Moon_7089
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Defoe, Daniel
@@ -13,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Daniel_Defoe
     - http://www.gutenberg.org/browse/authors/j#a26500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7089#The-Consolidator-or-Memoirs-of-Sundry-Transactions-from-the-World-in-the-Moon
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
